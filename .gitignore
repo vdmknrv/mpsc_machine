@@ -1,0 +1,10 @@
+
+Debug/
+
+Release/
+
+mpsc_machine_example.vcxproj.filters
+
+mpsc_machine_example.vcxproj.user
+
+.vs/
